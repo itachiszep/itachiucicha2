@@ -43,9 +43,7 @@ const Navbar = () => {
           <Link href="/courses/courses" onClick={handleLinkClick}>
             <li className="font-bold text-3xl p-8">Courses</li>
           </Link>
-          <Link href="/blog/blog" onClick={handleLinkClick}>
-            <li className="font-bold text-3xl p-8">Blog</li>
-          </Link>
+         
 
 
           
