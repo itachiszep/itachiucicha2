@@ -3,9 +3,9 @@ import Image from "next/image";
 export default function Home() {
 const videos = [
 "7u9JDhwJXTc", 
-"pLnGByBsFqE",    
 "ZtLlfdyDySY",     
-"ZtLlfdyDySY?si=UbKso_sBtruvWFdc",   
+"fvFuGq-1Z8M",
+"pLnGByBsFqE",  
 "BsblgcBB17A",    
 "y4-in1XbVEc",     
 "kt04TZi72P0",     
@@ -16,7 +16,9 @@ const videos = [
 "wtHrDSR6100",
 "iB6gWXG8zwo",
 "H4BXkyj9dJE",
-"yHFfpqgHld4"
+"yHFfpqgHld4",
+"82InbtYxdJY",
+
   ];
 return (
 <div className="bg-black text-white box-border m-0 p-0">
